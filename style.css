@@ -8,6 +8,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   font-family: "Open Sans", sans-serif;
   background: hsl(210, 36%, 96%);
@@ -90,8 +91,8 @@ p {
   display: block;
 }
 
-.show-text .minus-icon {
-  display: inline;
+.show-text .minus-icon {  
+  display: block;
 }
 .show-text .plus-icon {
   display: none;
